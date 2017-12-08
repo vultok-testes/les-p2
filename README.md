@@ -17,6 +17,8 @@ O sistema tem como foco a simulação da gerência de uma empresa, onde os funci
 </p> <p>
 <strong>Tecnologia notáveis utilizadas: </strong>
 <ul>
+  <li> JSP; </li>
+  <li> Servlets; </li>
   <li> Bootstrap; </li>
   <li> JQuery </li>
 </ul>
