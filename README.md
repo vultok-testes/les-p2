@@ -1,7 +1,10 @@
 # les-p2
-Repositório do aluno Elton Brandão, contendo o código do Sistema WEB para P2 de Lab. de Eng. de SW.
+<p>
+Repositório do aluno Elton Brandão, contendo o código, links e manuais sobre o <s>Imagine um Nome Maneiro de Sistema</s> Sistema WEB para P2 de Laboratório de Engenharia de Software.
+</p>
+
 # Vídeo
-Postei um vídeo explicando o funcionamento do sistema, por favor, assista antes.
+Postei um vídeo explicando o funcionamento do sistema, por favor, <b>assista antes de usar a aplicação para melhor entendê-la</b>.
 <br>
 https://youtu.be/Ut-jE2eUqa4
 # Links
