@@ -1,10 +1,15 @@
 # les-p2
 Repositório do aluno Elton Brandão, contendo o código do Sistema WEB para P2 de Lab. de Eng. de SW.
+# Vídeo
+Postei um vídeo explicando o funcionamento do sistema, por favor, assista antes.
+<br>
+https://youtu.be/Ut-jE2eUqa4
 # Links
 Link do site no MS-Azure: https://vultok-webapp.azurewebsites.net/
 <br>
 Postei também o projeto no Google Drive: https://drive.google.com/open?id=1WH036vURhTAioYXp11k9ahvulFCyRs1f 
 <br>
+
 # Sobre o Sistema
 O sistema tem como foco a simulação da gerência de uma empresa, onde os funcionários - ocasionalmente - têm seus atributos afetados por eventos.
 <br>
