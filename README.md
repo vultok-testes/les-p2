@@ -30,10 +30,21 @@ O sistema tem como foco a simulação da gerência de uma empresa, onde os funci
 </p>
 
 # Instalação
-Caso queira executar o sistema localmente, pelo Tomcat, recomendo fazer download da versão que está no Google Drive.
-<br>
-Eu usei tanto a versão 8.5 quanto a 9 do Apache Tomcat;
-<br>
-Para o java, utilizei as versões 1.8 e 9.
+<p>
+Caso queira executar o sistema localmente, pelo Tomcat ou similares, recomendo fazer download da versão do projeto que está no Google Drive e fazer import pelo eclipse.
+</p>
+<p>
+Eu usei tanto a versão 8.5 quanto a 9 do Apache Tomcat, então creio que com essas deve funcionar tranquilamente;
+
+Para o java, utilizei as versões 1.8 (mais especificamente o releade 144, salvo erro meu) e a versão 9. Caso você possua uma versão mais antiga do java, como anteriores à 1.8_143, creio que será necessário alterar as configurações do projeto, sendo (salvo erro meu):
+<ul><li>
+  Abra as propriedades do projeto -> <b>Java build path</b> -> Altere para a sua versão;
+  </li><li>
+  Abra as propriedades do projeto -> <b>Project Facets</b> -> <b>Java</b> -> Selecione a versão que você tem instalada;
+  </li><li>
+  Caso não esteja usando a versão 9 do Tomcat: Propriedades do projeto -> <b>Targeted Runtimes</b> -> Selecione sua versão;
+</li></ul>
+</p>
+
 # Contato
 Por favor, se tiver alguma dúvida ou o sistema por alguma razão ficar fora do ar, sinta-se livre para me contatar através do meu e-mail: <b>elton.user0@gmail.com</b>
