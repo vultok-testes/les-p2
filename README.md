@@ -30,7 +30,7 @@ O sistema tem como foco a simulação da gerência de uma empresa, onde os funci
 </p>
 
 # Instalação
-Caso queira executar o sistema localmente, pelo Tomcat, recomendoo fazer download da versão que está no Google Drive.
+Caso queira executar o sistema localmente, pelo Tomcat, recomendo fazer download da versão que está no Google Drive.
 <br>
 Eu usei tanto a versão 8.5 quanto a 9 do Apache Tomcat;
 <br>
